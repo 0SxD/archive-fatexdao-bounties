@@ -1,4 +1,7 @@
 # FATExDAO-Bounties
+
+> Personal archive fork by Sage / 0SxD. See ARCHIVE_NOTICE.md for prior-associations disclaimer and current research continuity.
+
 The FATExDAO Bounty program is for the community to take part in the development of the FATExDAO Ecosystem. Both technical and non-technical bounties can be added.
 
 # Introduction:
